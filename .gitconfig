@@ -1,0 +1,5 @@
+[user]
+	email = rap@endymion.com
+	name = Ryan Porter
+[credential]
+	helper = cache
